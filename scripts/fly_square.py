@@ -26,7 +26,7 @@ def main():
         (0, 0, 2)
     ]
 
-    pose = PoseStamped() #задаем переменне
+    pose = PoseStamped() #задаем переменное
 
 
 
